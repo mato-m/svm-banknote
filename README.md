@@ -1,4 +1,4 @@
-# Support vector machine - Banknote authentication
+# Support vector machine - Bank note authentication
 
 #### Dataset
 
